@@ -11,7 +11,7 @@ Begin your journey with the URL shortener by following these enchanting steps:
    Clone this repository to your realm of coding wonder:
 
    ```bash
-   git clone https://github.com/your-username/url-shortener.git
+   git clone https://github.com/harshpatelb/CodeClause-URL-Shortener
    ```
 
 2. **Summon the Potions** 🧙
