@@ -27,7 +27,7 @@ Begin your journey with the URL shortener by following these enchanting steps:
    Harness the power of Python to cast the spell of URL shortening:
 
    ```bash
-   python shorten_url.py
+   python CodeClause-URL-Shortener.py
    ```
 
 4. **Whisper the Incantation** 📜
@@ -48,7 +48,7 @@ Once you've spoken your desires, the script graces your eyes with both the origi
 
 Within this repository, you'll uncover these enchanting artifacts:
 
-- `shorten_url.py`: The heart of the operation, where the magic of URL shortening and user interaction harmoniously dance.
+- `CodeClause-URL-Shortener`: The heart of the operation, where the magic of URL shortening and user interaction harmoniously dance.
 - `README.md`: The scroll of knowledge you're currently perusing, guiding you through the intricacies of this magical endeavor.
 - `LICENSE`: A testament to the project's spirit of openness and sharing.
 
