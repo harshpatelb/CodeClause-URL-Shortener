@@ -69,4 +69,6 @@ Our deepest gratitude to Code Clause for bestowing the Python Development Intern
 
 **May Your URLs Be Ever Short and Your Magic Unbounded! 🌐🪄**
 
-![Project Output](https://drive.google.com/file/d/16mQw2dRDTK1fG9U-jsN_AI6-Z8onUHfj/view?usp=sharing)
+## Output
+![Project Output](https://drive.google.com/uc?export=view&id=16mQw2dRDTK1fG9U-jsN_AI6-Z8onUHfj)
+```
